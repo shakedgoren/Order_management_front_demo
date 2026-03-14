@@ -9,7 +9,7 @@ This repository contains the **Frontend Source Code** for **Jahnon On Wheels**, 
 *(The Manager Dashboard is restricted to authenticated employees only).*
 
 ## 🎥 Video Walkthrough (Full System)
-Watch the system in action: [System Walkthrough Video](#)
+Watch the system in action: [System Walkthrough Video](https://shakedlilozportfolio.netlify.app/)
 
 ---
 
@@ -66,4 +66,4 @@ To run this project locally:
    npm run dev
    ```
 
-*Designed and Developed by [Shaked Goren](https://github.com/shakedgoren)*
+*Designed and Developed by [Shaked Liloz](https://github.com/shakedgoren)*
