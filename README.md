@@ -4,8 +4,8 @@ This repository contains the **Frontend Source Code** for **Jahnon On Wheels**, 
 
 > ⚠️ **Note:** This is a sanitized "Mirror" repository. Sensitive information such as Google API Keys, production environment variables, and authentication secrets have been removed for security purposes. The architecture, components, and logic remain intact.
 
-## 🔗 Live Demo
-[jahnononweels.netlify.app](https://jahnononweels.netlify.app)
+## 🔗 Live Website
+[Click Here to Visit](https://jahnonnweels.netlify.app/)
 *(The Manager Dashboard is restricted to authenticated employees only).*
 
 ## 🎥 Video Walkthrough (Full System)
